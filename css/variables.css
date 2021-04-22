@@ -1,8 +1,10 @@
 :root {
+  --horizontal: 30px;
   --gray-font: #6b7280;
   --gray-bg: #e5e7eb;
   --blue: #2563eb;
-  --font-sm: 14px;
   --font-bold: 600;
-  --horizonal: 0px 40px;
+  --font-3x: 60px;
+  --font-lg: 20px;
+  --font-sm: 14px;
 }

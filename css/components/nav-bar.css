@@ -13,7 +13,7 @@
   box-sizing: border-box;
 }
 .nav__column {
-  padding: 15px 30px;
+  padding: 15px var(--horizontal);
 }
 .nav__text-menu,
 .nav__user-menu {

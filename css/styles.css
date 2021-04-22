@@ -6,8 +6,12 @@
 @import "components/nav-bar.css";
 
 /*Pages*/
+@import "pages/home.css";
 
 body {
   font-family: "Open Sans";
   color: #111827;
+}
+.main-page {
+  padding: 180px var(--horizontal);
 }
