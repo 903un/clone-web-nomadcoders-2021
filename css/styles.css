@@ -5,6 +5,7 @@
 /*Components*/
 @import "components/nav-bar.css";
 @import "components/buttons.css";
+@import "components/course.css";
 
 /*Pages*/
 @import "pages/home.css";

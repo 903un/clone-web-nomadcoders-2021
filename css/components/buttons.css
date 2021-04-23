@@ -1,13 +1,30 @@
+.btn {
+  text-align: center;
+}
 .btn-color__blue {
   background-color: var(--blue);
   color: white;
   border: 0.5px solid var(--blue);
 }
 .btn-size__lg {
-  padding: 15px 40px;
+  padding: 15px 20px;
   border-radius: 5px;
   font-size: var(--font-lg);
 }
+.btn-name__goToDashboard {
+  width: 250px;
+  margin-top: 45px;
+}
 .btn-name__goToDashboard i {
+  margin-left: 8px;
+}
+.text-btn {
+  display: flex;
+  justify-content: center;
+  font-size: var(--font-lg);
+  font-weight: var(--font-bold);
+  color: var(--blue);
+}
+.text-btn i {
   margin-left: 8px;
 }
